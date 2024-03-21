@@ -6,10 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 #### Technical Skills: Python, SQL, AWS, Java, C++, R, MATLAB
-/text{"Hello"}
-
 
 ## Education
+### Carnegie Mellon University
 
 ## Work Experience
 
